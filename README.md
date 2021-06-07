@@ -11,10 +11,6 @@ Trabajo de DAW2 portal web + tienda online
 
 **3.** Seleccionar el .ova descargado y aceptar las opciones por defecto.
 
-```
-$ vagrant -v
-```
-
 **4.** Arrancar la MV. Saltará un error porque no se reconoce la interfaz de red -> Seleccionar Cambiar preferencias de red y seleccionar un adaptador de red.
 
 **5.** De vuelta a la MV, esperar a que termine de iniciar e ingresar las credenciales:
